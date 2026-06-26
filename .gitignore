@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+models/*.pkl
+
+# Dataset
+data/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Workspace Agent files
+.gemini/
